@@ -1,6 +1,6 @@
 工作地点：杭州
 
-简历发送邮箱：join-tmallfe@list.alibaba-inc.com
+简历发送邮箱：butian.wth@alibaba-inc.com
 
 天猫前端的介绍：[在天猫担任前端工程师是一种什么样的体验](https://www.zhihu.com/question/33589154)
 
@@ -31,29 +31,9 @@
 
 ## 联系方式
 
-* 微博：@天猫前端
-* github：https://github.com/tmallfe/tmallfe.github.io/issues
-* 知乎专栏：天猫前端
+* 知乎专栏：https://zhuanlan.zhihu.com/tmallf2e
+* 博客：https://fed.taobao.org/
 
 ## 招聘邮箱
 
-地址：join-tmallfe@list.alibaba-inc.com
-
-
-## 我们能提供什么
-
-* 具有竞争力的薪酬
-* 数百名前端、客户端、开发的技术支持，在这里没有解决不了的技术问题
-* 每年数十次的各类分享会议的参加机会，你可以选择站在台上分享，也可以做一名安静的听众
-* 公司数百名车主组成的顺风车队可以为你提供公交、打车之外更加便捷的选择
-* 园区5个配套食堂，3个甜品店，星巴克，costa等等，甚至你可以在园区理发，不用担心被忽悠办会员卡
-
-## 联系方式
-
-* 微博：@天猫前端
-* github：https://github.com/tmallfe/tmallfe.github.io/issues
-* 知乎专栏：天猫前端
-
-## 招聘邮箱
-
-地址：join-tmallfe@list.alibaba-inc.com
+地址：butian.wth@alibaba-inc.com
